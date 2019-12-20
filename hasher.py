@@ -99,4 +99,3 @@ main_dict = {
         }
 
 main_dict[ch]()
-1
